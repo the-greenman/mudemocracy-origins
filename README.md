@@ -35,3 +35,8 @@ make all
 
 - `docs/note7_democratic_origins.md` covers the dataset, methodology, the pre-registered plan for H1–H4, and results.
 - `docs/note8_bad_civil_society.md` covers H3 ("when civil society doesn't protect democracy"): the literature, pre-registered mechanism tests M1–M5, results, and the South Africa case.
+- `docs/note9_south_africa.md` covers the South Africa study: design, the frozen S1 test of participation and voice in traditional-authority areas, and results.
+
+## South Africa study
+
+`make sa` runs it. It needs the official Afrobarometer South Africa files (rounds 4-9), which are free from afrobarometer.org/data but may not be redistributed. Put them in `private/afrobarometer/`. `outputs/sa_input_hashes.csv` lists the SHA-256 of each file used, and `outputs/sa_ab_labels_audit.csv` shows how every answer was coded. No respondent-level data is committed.

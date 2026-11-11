@@ -1,0 +1,384 @@
+round,item,variable,question,code,label,coded_as
+4,free,Q15A,Q15a. Freedom to say what you think,-1.0,Missing,
+4,free,Q15A,Q15a. Freedom to say what you think,1.0,Not at all free,0.0
+4,free,Q15A,Q15a. Freedom to say what you think,2.0,Not very free,0.0
+4,free,Q15A,Q15a. Freedom to say what you think,3.0,Somewhat free,1.0
+4,free,Q15A,Q15a. Freedom to say what you think,4.0,Completely free,1.0
+4,free,Q15A,Q15a. Freedom to say what you think,9.0,Don't know,
+4,free,Q15A,Q15a. Freedom to say what you think,998.0,Refused,
+4,memrel,Q22A,Q22a. Member of religious group,-1.0,Missing,
+4,memrel,Q22A,Q22a. Member of religious group,0.0,Not a Member,0.0
+4,memrel,Q22A,Q22a. Member of religious group,1.0,Inactive Member,0.0
+4,memrel,Q22A,Q22a. Member of religious group,2.0,Active Member,1.0
+4,memrel,Q22A,Q22a. Member of religious group,3.0,Official Leader,1.0
+4,memrel,Q22A,Q22a. Member of religious group,9.0,Don't Know,
+4,memrel,Q22A,Q22a. Member of religious group,998.0,Refused,
+4,memvol,Q22B,Q22b. Member of voluntary association or community group,-1.0,Missing,
+4,memvol,Q22B,Q22b. Member of voluntary association or community group,0.0,Not a Member,0.0
+4,memvol,Q22B,Q22b. Member of voluntary association or community group,1.0,Inactive Member,0.0
+4,memvol,Q22B,Q22b. Member of voluntary association or community group,2.0,Active Member,1.0
+4,memvol,Q22B,Q22b. Member of voluntary association or community group,3.0,Official Leader,1.0
+4,memvol,Q22B,Q22b. Member of voluntary association or community group,9.0,Don't Know,
+4,memvol,Q22B,Q22b. Member of voluntary association or community group,998.0,Refused,
+4,meet,Q23A,Q23a. Attend a community meeting,-1.0,Missing,
+4,meet,Q23A,Q23a. Attend a community meeting,0.0,"No, would never do this",0.0
+4,meet,Q23A,Q23a. Attend a community meeting,1.0,"No, but would do if had the chance",0.0
+4,meet,Q23A,Q23a. Attend a community meeting,2.0,"Yes, once or twice",1.0
+4,meet,Q23A,Q23a. Attend a community meeting,3.0,"Yes, several times",1.0
+4,meet,Q23A,Q23a. Attend a community meeting,4.0,"Yes, often",1.0
+4,meet,Q23A,Q23a. Attend a community meeting,9.0,Don't know,
+4,meet,Q23A,Q23a. Attend a community meeting,998.0,Refused,
+4,raise_,Q23B,Q23b. Join others to raise an issue,-1.0,Missing,
+4,raise_,Q23B,Q23b. Join others to raise an issue,0.0,"No, would never do this",0.0
+4,raise_,Q23B,Q23b. Join others to raise an issue,1.0,"No, but would do if had the chance",0.0
+4,raise_,Q23B,Q23b. Join others to raise an issue,2.0,"Yes, once or twice",1.0
+4,raise_,Q23B,Q23b. Join others to raise an issue,3.0,"Yes, several times",1.0
+4,raise_,Q23B,Q23b. Join others to raise an issue,4.0,"Yes, often",1.0
+4,raise_,Q23B,Q23b. Join others to raise an issue,9.0,Don't know,
+4,raise_,Q23B,Q23b. Join others to raise an issue,998.0,Refused,
+4,contact_c,Q25A,Q25a. Contact local government councillor,-1.0,Missing,
+4,contact_c,Q25A,Q25a. Contact local government councillor,0.0,Never,0.0
+4,contact_c,Q25A,Q25a. Contact local government councillor,1.0,Only once,1.0
+4,contact_c,Q25A,Q25a. Contact local government councillor,2.0,A few times,1.0
+4,contact_c,Q25A,Q25a. Contact local government councillor,3.0,Often,1.0
+4,contact_c,Q25A,Q25a. Contact local government councillor,9.0,Don't know,
+4,contact_c,Q25A,Q25a. Contact local government councillor,998.0,Refused,
+4,careful,Q46,Q46. How often careful what you say,-1.0,Missing,
+4,careful,Q46,Q46. How often careful what you say,0.0,Never,1.0
+4,careful,Q46,Q46. How often careful what you say,1.0,Rarely,1.0
+4,careful,Q46,Q46. How often careful what you say,2.0,Often,0.0
+4,careful,Q46,Q46. How often careful what you say,3.0,Always,0.0
+4,careful,Q46,Q46. How often careful what you say,9.0,Don't know,
+4,careful,Q46,Q46. How often careful what you say,998.0,Refused,
+4,fear,Q47,Q47. How much fear political intimidation or violence,-1.0,Missing,
+4,fear,Q47,Q47. How much fear political intimidation or violence,0.0,A lot,0.0
+4,fear,Q47,Q47. How much fear political intimidation or violence,1.0,Somewhat,0.0
+4,fear,Q47,Q47. How much fear political intimidation or violence,2.0,A little bit,1.0
+4,fear,Q47,Q47. How much fear political intimidation or violence,3.0,Not at all,1.0
+4,fear,Q47,Q47. How much fear political intimidation or violence,9.0,Don't know,
+4,fear,Q47,Q47. How much fear political intimidation or violence,998.0,Refused,
+4,listen_c,Q54B,Q54b. Local government councilors listen,-1.0,Missing,
+4,listen_c,Q54B,Q54b. Local government councilors listen,0.0,Never,0.0
+4,listen_c,Q54B,Q54b. Local government councilors listen,1.0,Only sometimes,0.0
+4,listen_c,Q54B,Q54b. Local government councilors listen,2.0,Often,1.0
+4,listen_c,Q54B,Q54b. Local government councilors listen,3.0,Always,1.0
+4,listen_c,Q54B,Q54b. Local government councilors listen,9.0,Don't know,
+4,listen_c,Q54B,Q54b. Local government councilors listen,998.0,Refused,
+4,listen_tl,Q54C,Q54c. Traditional leaders listen,-1.0,Missing,
+4,listen_tl,Q54C,Q54c. Traditional leaders listen,0.0,Never,0.0
+4,listen_tl,Q54C,Q54c. Traditional leaders listen,1.0,Only sometimes,0.0
+4,listen_tl,Q54C,Q54c. Traditional leaders listen,2.0,Often,1.0
+4,listen_tl,Q54C,Q54c. Traditional leaders listen,3.0,Always,1.0
+4,listen_tl,Q54C,Q54c. Traditional leaders listen,9.0,Don't know,
+4,listen_tl,Q54C,Q54c. Traditional leaders listen,998.0,Refused,
+5,free,Q17A,Q17a. Freedom to say what you think,1.0,Not at all free,0.0
+5,free,Q17A,Q17a. Freedom to say what you think,2.0,Not very free,0.0
+5,free,Q17A,Q17a. Freedom to say what you think,3.0,Somewhat free,1.0
+5,free,Q17A,Q17a. Freedom to say what you think,4.0,Completely free,1.0
+5,free,Q17A,Q17a. Freedom to say what you think,9.0,Don't know,
+5,memrel,Q25A,Q25a. Member of religious group,0.0,Not a Member,0.0
+5,memrel,Q25A,Q25a. Member of religious group,1.0,Inactive Member,0.0
+5,memrel,Q25A,Q25a. Member of religious group,2.0,Active Member,1.0
+5,memrel,Q25A,Q25a. Member of religious group,3.0,Official Leader,1.0
+5,memrel,Q25A,Q25a. Member of religious group,9.0,Don't know,
+5,memvol,Q25B,Q25b. Member of voluntary association or community group,0.0,Not a Member,0.0
+5,memvol,Q25B,Q25b. Member of voluntary association or community group,1.0,Inactive Member,0.0
+5,memvol,Q25B,Q25b. Member of voluntary association or community group,2.0,Active Member,1.0
+5,memvol,Q25B,Q25b. Member of voluntary association or community group,3.0,Official Leader,1.0
+5,memvol,Q25B,Q25b. Member of voluntary association or community group,9.0,Don't know,
+5,meet,Q26A,Q26a. Attend a community meeting,-1.0,Missing,
+5,meet,Q26A,Q26a. Attend a community meeting,0.0,"No, would never do this",0.0
+5,meet,Q26A,Q26a. Attend a community meeting,1.0,"No, but would do if had the chance",0.0
+5,meet,Q26A,Q26a. Attend a community meeting,2.0,"Yes, once or twice",1.0
+5,meet,Q26A,Q26a. Attend a community meeting,3.0,"Yes, several times",1.0
+5,meet,Q26A,Q26a. Attend a community meeting,4.0,"Yes, often",1.0
+5,meet,Q26A,Q26a. Attend a community meeting,9.0,Don't know,
+5,meet,Q26A,Q26a. Attend a community meeting,998.0,Refused,
+5,raise_,Q26B,Q26b. Join others to raise an issue,-1.0,Missing,
+5,raise_,Q26B,Q26b. Join others to raise an issue,0.0,"No, would never do this",0.0
+5,raise_,Q26B,Q26b. Join others to raise an issue,1.0,"No, but would do if had the chance",0.0
+5,raise_,Q26B,Q26b. Join others to raise an issue,2.0,"Yes, once or twice",1.0
+5,raise_,Q26B,Q26b. Join others to raise an issue,3.0,"Yes, several times",1.0
+5,raise_,Q26B,Q26b. Join others to raise an issue,4.0,"Yes, often",1.0
+5,raise_,Q26B,Q26b. Join others to raise an issue,9.0,Don't know,
+5,raise_,Q26B,Q26b. Join others to raise an issue,998.0,Refused,
+5,contact_c,Q30A,Q30a. Contact local government councillor,0.0,Never,0.0
+5,contact_c,Q30A,Q30a. Contact local government councillor,1.0,Only once,1.0
+5,contact_c,Q30A,Q30a. Contact local government councillor,2.0,A few times,1.0
+5,contact_c,Q30A,Q30a. Contact local government councillor,3.0,Often,1.0
+5,contact_c,Q30A,Q30a. Contact local government councillor,9.0,Don’t know,
+5,careful,Q56A,Q56a. How often careful what you say,0.0,Never,1.0
+5,careful,Q56A,Q56a. How often careful what you say,1.0,Rarely,1.0
+5,careful,Q56A,Q56a. How often careful what you say,2.0,Often,0.0
+5,careful,Q56A,Q56a. How often careful what you say,3.0,Always,0.0
+5,careful,Q56A,Q56a. How often careful what you say,9.0,Don't know,
+5,fear,Q54,Q54. How much fear political intimidation or violence,0.0,A lot,0.0
+5,fear,Q54,Q54. How much fear political intimidation or violence,1.0,Somewhat,0.0
+5,fear,Q54,Q54. How much fear political intimidation or violence,2.0,A little bit,1.0
+5,fear,Q54,Q54. How much fear political intimidation or violence,3.0,Not at all,1.0
+5,fear,Q54,Q54. How much fear political intimidation or violence,9.0,Don't know,
+5,listen_c,Q62B,Q62b. Local government councilors listen,0.0,Never,0.0
+5,listen_c,Q62B,Q62b. Local government councilors listen,1.0,Once sometimes,0.0
+5,listen_c,Q62B,Q62b. Local government councilors listen,2.0,Often,1.0
+5,listen_c,Q62B,Q62b. Local government councilors listen,3.0,Always,1.0
+5,listen_c,Q62B,Q62b. Local government councilors listen,9.0,Don't know,
+6,free,Q15A,Q15a. Freedom to say what you think,-1.0,Missing,
+6,free,Q15A,Q15a. Freedom to say what you think,1.0,Not at all free,0.0
+6,free,Q15A,Q15a. Freedom to say what you think,2.0,Not very free,0.0
+6,free,Q15A,Q15a. Freedom to say what you think,3.0,Somewhat free,1.0
+6,free,Q15A,Q15a. Freedom to say what you think,4.0,Completely free,1.0
+6,free,Q15A,Q15a. Freedom to say what you think,9.0,Don't know,
+6,free,Q15A,Q15a. Freedom to say what you think,98.0,Refused,
+6,memrel,Q19A,Q19a. Member of religious group,-1.0,Missing,
+6,memrel,Q19A,Q19a. Member of religious group,0.0,Not a Member,0.0
+6,memrel,Q19A,Q19a. Member of religious group,1.0,Inactive Member,0.0
+6,memrel,Q19A,Q19a. Member of religious group,2.0,Active Member,1.0
+6,memrel,Q19A,Q19a. Member of religious group,3.0,Official Leader,1.0
+6,memrel,Q19A,Q19a. Member of religious group,9.0,Don't Know,
+6,memrel,Q19A,Q19a. Member of religious group,98.0,Refused,
+6,memvol,Q19B,Q19b. Member of voluntary association or community group,-1.0,Missing,
+6,memvol,Q19B,Q19b. Member of voluntary association or community group,0.0,Not a Member,0.0
+6,memvol,Q19B,Q19b. Member of voluntary association or community group,1.0,Inactive Member,0.0
+6,memvol,Q19B,Q19b. Member of voluntary association or community group,2.0,Active Member,1.0
+6,memvol,Q19B,Q19b. Member of voluntary association or community group,3.0,Official Leader,1.0
+6,memvol,Q19B,Q19b. Member of voluntary association or community group,9.0,Don't Know,
+6,memvol,Q19B,Q19b. Member of voluntary association or community group,98.0,Refused,
+6,meet,Q20A,Q20a. Attend a community meeting,-1.0,Missing,
+6,meet,Q20A,Q20a. Attend a community meeting,0.0,"No, would never do this",0.0
+6,meet,Q20A,Q20a. Attend a community meeting,1.0,"No, but would do if had the chance",0.0
+6,meet,Q20A,Q20a. Attend a community meeting,2.0,"Yes, once or twice",1.0
+6,meet,Q20A,Q20a. Attend a community meeting,3.0,"Yes, several times",1.0
+6,meet,Q20A,Q20a. Attend a community meeting,4.0,"Yes, often",1.0
+6,meet,Q20A,Q20a. Attend a community meeting,9.0,Don't know,
+6,meet,Q20A,Q20a. Attend a community meeting,98.0,Refused,
+6,raise_,Q20B,Q20b. Join others to raise an issue,-1.0,Missing,
+6,raise_,Q20B,Q20b. Join others to raise an issue,0.0,"No, would never do this",0.0
+6,raise_,Q20B,Q20b. Join others to raise an issue,1.0,"No, but would do if had the chance",0.0
+6,raise_,Q20B,Q20b. Join others to raise an issue,2.0,"Yes, once or twice",1.0
+6,raise_,Q20B,Q20b. Join others to raise an issue,3.0,"Yes, several times",1.0
+6,raise_,Q20B,Q20b. Join others to raise an issue,4.0,"Yes, often",1.0
+6,raise_,Q20B,Q20b. Join others to raise an issue,9.0,Don't know,
+6,raise_,Q20B,Q20b. Join others to raise an issue,98.0,Refused,
+6,contact_c,Q24A,Q24a. Contact local government councillor,-1.0,Missing,
+6,contact_c,Q24A,Q24a. Contact local government councillor,0.0,Never,0.0
+6,contact_c,Q24A,Q24a. Contact local government councillor,1.0,Only once,1.0
+6,contact_c,Q24A,Q24a. Contact local government councillor,2.0,A few times,1.0
+6,contact_c,Q24A,Q24a. Contact local government councillor,3.0,Often,1.0
+6,contact_c,Q24A,Q24a. Contact local government councillor,9.0,Don't know,
+6,contact_c,Q24A,Q24a. Contact local government councillor,98.0,Refused,
+6,contact_tl,Q24E,Q24e. Contact traditional leader,-1.0,Missing,
+6,contact_tl,Q24E,Q24e. Contact traditional leader,0.0,Never,0.0
+6,contact_tl,Q24E,Q24e. Contact traditional leader,1.0,Only once,1.0
+6,contact_tl,Q24E,Q24e. Contact traditional leader,2.0,A few times,1.0
+6,contact_tl,Q24E,Q24e. Contact traditional leader,3.0,Often,1.0
+6,contact_tl,Q24E,Q24e. Contact traditional leader,9.0,Don't know,
+6,contact_tl,Q24E,Q24e. Contact traditional leader,98.0,Refused,
+6,careful,Q51A,Q51a. How often careful what you say,-1.0,Missing,
+6,careful,Q51A,Q51a. How often careful what you say,0.0,Never,1.0
+6,careful,Q51A,Q51a. How often careful what you say,1.0,Rarely,1.0
+6,careful,Q51A,Q51a. How often careful what you say,2.0,Often,0.0
+6,careful,Q51A,Q51a. How often careful what you say,3.0,Always,0.0
+6,careful,Q51A,Q51a. How often careful what you say,9.0,Don't know,
+6,careful,Q51A,Q51a. How often careful what you say,98.0,Refused,
+6,fear,Q49,Q49. How much fear political intimidation or violence,-1.0,Missing,
+6,fear,Q49,Q49. How much fear political intimidation or violence,0.0,A lot,0.0
+6,fear,Q49,Q49. How much fear political intimidation or violence,1.0,Somewhat,0.0
+6,fear,Q49,Q49. How much fear political intimidation or violence,2.0,A little bit,1.0
+6,fear,Q49,Q49. How much fear political intimidation or violence,3.0,Not at all,1.0
+6,fear,Q49,Q49. How much fear political intimidation or violence,9.0,Don't know,
+6,fear,Q49,Q49. How much fear political intimidation or violence,98.0,Refused,
+6,listen_c,Q59B,Q59b. Local government councillors listen,-1.0,Missing,
+6,listen_c,Q59B,Q59b. Local government councillors listen,0.0,Never,0.0
+6,listen_c,Q59B,Q59b. Local government councillors listen,1.0,Only Sometimes,0.0
+6,listen_c,Q59B,Q59b. Local government councillors listen,2.0,Often,1.0
+6,listen_c,Q59B,Q59b. Local government councillors listen,3.0,Always,1.0
+6,listen_c,Q59B,Q59b. Local government councillors listen,9.0,Don't know,
+6,listen_c,Q59B,Q59b. Local government councillors listen,98.0,Refused,
+7,free,Q14,Q14. Freedom to say what you think,-1.0,Missing,
+7,free,Q14,Q14. Freedom to say what you think,1.0,Not at all free,0.0
+7,free,Q14,Q14. Freedom to say what you think,2.0,Not very free,0.0
+7,free,Q14,Q14. Freedom to say what you think,3.0,Somewhat free,1.0
+7,free,Q14,Q14. Freedom to say what you think,4.0,Completely free,1.0
+7,free,Q14,Q14. Freedom to say what you think,8.0,Refused,
+7,free,Q14,Q14. Freedom to say what you think,9.0,Don’t know,
+7,memrel,Q20A,Q20a. Member of religious group,-1.0,Missing,
+7,memrel,Q20A,Q20a. Member of religious group,0.0,Not a Member,0.0
+7,memrel,Q20A,Q20a. Member of religious group,1.0,Inactive Member,0.0
+7,memrel,Q20A,Q20a. Member of religious group,2.0,Active Member,1.0
+7,memrel,Q20A,Q20a. Member of religious group,3.0,Official Leader,1.0
+7,memrel,Q20A,Q20a. Member of religious group,8.0,Refused,
+7,memrel,Q20A,Q20a. Member of religious group,9.0,Don't know,
+7,memvol,Q20B,Q20b. Member of voluntary association or community group,-1.0,Missing,
+7,memvol,Q20B,Q20b. Member of voluntary association or community group,0.0,Not a Member,0.0
+7,memvol,Q20B,Q20b. Member of voluntary association or community group,1.0,Inactive Member,0.0
+7,memvol,Q20B,Q20b. Member of voluntary association or community group,2.0,Active Member,1.0
+7,memvol,Q20B,Q20b. Member of voluntary association or community group,3.0,Official Leader,1.0
+7,memvol,Q20B,Q20b. Member of voluntary association or community group,8.0,Refused,
+7,memvol,Q20B,Q20b. Member of voluntary association or community group,9.0,Don't know,
+7,meet,Q21A,Q21a. Attend a community meeting,-1.0,Missing,
+7,meet,Q21A,Q21a. Attend a community meeting,0.0,"No, would never do this",0.0
+7,meet,Q21A,Q21a. Attend a community meeting,1.0,"No, but would do if had the chance",0.0
+7,meet,Q21A,Q21a. Attend a community meeting,2.0,"Yes, once or twice",1.0
+7,meet,Q21A,Q21a. Attend a community meeting,3.0,"Yes, several times",1.0
+7,meet,Q21A,Q21a. Attend a community meeting,4.0,"Yes, often",1.0
+7,meet,Q21A,Q21a. Attend a community meeting,8.0,Refused,
+7,meet,Q21A,Q21a. Attend a community meeting,9.0,Don't know,
+7,raise_,Q21B,Q21b. Join others to raise an issue,-1.0,Missing,
+7,raise_,Q21B,Q21b. Join others to raise an issue,0.0,"No, would never do this",0.0
+7,raise_,Q21B,Q21b. Join others to raise an issue,1.0,"No, but would do if had the chance",0.0
+7,raise_,Q21B,Q21b. Join others to raise an issue,2.0,"Yes, once or twice",1.0
+7,raise_,Q21B,Q21b. Join others to raise an issue,3.0,"Yes, several times",1.0
+7,raise_,Q21B,Q21b. Join others to raise an issue,4.0,"Yes, often",1.0
+7,raise_,Q21B,Q21b. Join others to raise an issue,8.0,Refused,
+7,raise_,Q21B,Q21b. Join others to raise an issue,9.0,Don't know,
+7,contact_c,Q25A,Q25a. Contact local government councillor,-1.0,Missing,
+7,contact_c,Q25A,Q25a. Contact local government councillor,0.0,Never,0.0
+7,contact_c,Q25A,Q25a. Contact local government councillor,1.0,Only once,1.0
+7,contact_c,Q25A,Q25a. Contact local government councillor,2.0,A few times,1.0
+7,contact_c,Q25A,Q25a. Contact local government councillor,3.0,Often,1.0
+7,contact_c,Q25A,Q25a. Contact local government councillor,8.0,Refused,
+7,contact_c,Q25A,Q25a. Contact local government councillor,9.0,Don’t know,
+7,contact_tl,Q25E,Q25e. Contact traditional leader,-1.0,Missing,
+7,contact_tl,Q25E,Q25e. Contact traditional leader,0.0,Never,0.0
+7,contact_tl,Q25E,Q25e. Contact traditional leader,1.0,Only once,1.0
+7,contact_tl,Q25E,Q25e. Contact traditional leader,2.0,A few times,1.0
+7,contact_tl,Q25E,Q25e. Contact traditional leader,3.0,Often,1.0
+7,contact_tl,Q25E,Q25e. Contact traditional leader,8.0,Refused,
+7,contact_tl,Q25E,Q25e. Contact traditional leader,9.0,Don’t know,
+7,careful,Q42A,Q42a. How often careful what you say,-1.0,Missing,
+7,careful,Q42A,Q42a. How often careful what you say,0.0,Never,1.0
+7,careful,Q42A,Q42a. How often careful what you say,1.0,Rarely,1.0
+7,careful,Q42A,Q42a. How often careful what you say,2.0,Often,0.0
+7,careful,Q42A,Q42a. How often careful what you say,3.0,Always,0.0
+7,careful,Q42A,Q42a. How often careful what you say,8.0,Refused,
+7,careful,Q42A,Q42a. How often careful what you say,9.0,Don’t know,
+7,fear,Q40,Q40. How much fear political intimidation or violence,-1.0,Missing,
+7,fear,Q40,Q40. How much fear political intimidation or violence,0.0,A lot,0.0
+7,fear,Q40,Q40. How much fear political intimidation or violence,1.0,Somewhat,0.0
+7,fear,Q40,Q40. How much fear political intimidation or violence,2.0,A little bit,1.0
+7,fear,Q40,Q40. How much fear political intimidation or violence,3.0,Not at all,1.0
+7,fear,Q40,Q40. How much fear political intimidation or violence,8.0,Refused,
+7,fear,Q40,Q40. How much fear political intimidation or violence,9.0,Don’t know,
+7,listen_c,Q54B,Q54b. Local government councillors listen,-1.0,Missing,
+7,listen_c,Q54B,Q54b. Local government councillors listen,0.0,Never,0.0
+7,listen_c,Q54B,Q54b. Local government councillors listen,1.0,Only Sometimes,0.0
+7,listen_c,Q54B,Q54b. Local government councillors listen,2.0,Often,1.0
+7,listen_c,Q54B,Q54b. Local government councillors listen,3.0,Always,1.0
+7,listen_c,Q54B,Q54b. Local government councillors listen,8.0,Refused,
+7,listen_c,Q54B,Q54b. Local government councillors listen,9.0,Don’t know,
+8,free,Q10A,Q10a. Freedom to say what you think,-1.0,Missing,
+8,free,Q10A,Q10a. Freedom to say what you think,1.0,Not at all free,0.0
+8,free,Q10A,Q10a. Freedom to say what you think,2.0,Not very free,0.0
+8,free,Q10A,Q10a. Freedom to say what you think,3.0,Somewhat free,1.0
+8,free,Q10A,Q10a. Freedom to say what you think,4.0,Completely free,1.0
+8,free,Q10A,Q10a. Freedom to say what you think,8.0,Refused,
+8,free,Q10A,Q10a. Freedom to say what you think,9.0,Don’t know,
+8,meet,Q11A,Q11a. Attend a community meeting,-1.0,Missing,
+8,meet,Q11A,Q11a. Attend a community meeting,0.0,"No, would never do this",0.0
+8,meet,Q11A,Q11a. Attend a community meeting,1.0,"No, would do it if I had the chance",0.0
+8,meet,Q11A,Q11a. Attend a community meeting,2.0,"Yes, once or twice",1.0
+8,meet,Q11A,Q11a. Attend a community meeting,3.0,"Yes, several times",1.0
+8,meet,Q11A,Q11a. Attend a community meeting,4.0,"Yes, often",1.0
+8,meet,Q11A,Q11a. Attend a community meeting,8.0,Refused,
+8,meet,Q11A,Q11a. Attend a community meeting,9.0,Don't Know,
+8,raise_,Q11B,Q11b. Join others to raise an issue,-1.0,Missing,
+8,raise_,Q11B,Q11b. Join others to raise an issue,0.0,"No, would never do this",0.0
+8,raise_,Q11B,Q11b. Join others to raise an issue,1.0,"No, would do it if I had the chance",0.0
+8,raise_,Q11B,Q11b. Join others to raise an issue,2.0,"Yes, once or twice",1.0
+8,raise_,Q11B,Q11b. Join others to raise an issue,3.0,"Yes, several times",1.0
+8,raise_,Q11B,Q11b. Join others to raise an issue,4.0,"Yes, often",1.0
+8,raise_,Q11B,Q11b. Join others to raise an issue,8.0,Refused,
+8,raise_,Q11B,Q11b. Join others to raise an issue,9.0,Don't Know,
+8,contact_c,Q12A,Q12a. Contact local government councillor,-1.0,Missing,
+8,contact_c,Q12A,Q12a. Contact local government councillor,0.0,Never,0.0
+8,contact_c,Q12A,Q12a. Contact local government councillor,1.0,Only once,1.0
+8,contact_c,Q12A,Q12a. Contact local government councillor,2.0,A few times,1.0
+8,contact_c,Q12A,Q12a. Contact local government councillor,3.0,Often,1.0
+8,contact_c,Q12A,Q12a. Contact local government councillor,8.0,Refused,
+8,contact_c,Q12A,Q12a. Contact local government councillor,9.0,Don’t know,
+8,contact_c,Q12A,Q12a. Contact local government councillor,99.0,Not asked in the country,
+8,contact_tl,Q12D,Q12d. Contact traditional leader,-1.0,Missing,
+8,contact_tl,Q12D,Q12d. Contact traditional leader,0.0,Never,0.0
+8,contact_tl,Q12D,Q12d. Contact traditional leader,1.0,Only once,1.0
+8,contact_tl,Q12D,Q12d. Contact traditional leader,2.0,A few times,1.0
+8,contact_tl,Q12D,Q12d. Contact traditional leader,3.0,Often,1.0
+8,contact_tl,Q12D,Q12d. Contact traditional leader,8.0,Refused,
+8,contact_tl,Q12D,Q12d. Contact traditional leader,9.0,Don’t know,
+8,contact_tl,Q12D,Q12d. Contact traditional leader,99.0,Not asked in the country,
+8,careful,Q40D,Q40d. How often careful what you say,-1.0,Missing,
+8,careful,Q40D,Q40d. How often careful what you say,0.0,Never,1.0
+8,careful,Q40D,Q40d. How often careful what you say,1.0,Rarely,1.0
+8,careful,Q40D,Q40d. How often careful what you say,2.0,Often,0.0
+8,careful,Q40D,Q40d. How often careful what you say,3.0,Always,0.0
+8,careful,Q40D,Q40d. How often careful what you say,8.0,Refused,
+8,careful,Q40D,Q40d. How often careful what you say,9.0,Don’t know,
+8,listen_c,Q38B,Q38b. Local government councillors listen,-1.0,Missing,
+8,listen_c,Q38B,Q38b. Local government councillors listen,0.0,Never,0.0
+8,listen_c,Q38B,Q38b. Local government councillors listen,1.0,Only Sometimes,0.0
+8,listen_c,Q38B,Q38b. Local government councillors listen,2.0,Often,1.0
+8,listen_c,Q38B,Q38b. Local government councillors listen,3.0,Always,1.0
+8,listen_c,Q38B,Q38b. Local government councillors listen,8.0,Refused,
+8,listen_c,Q38B,Q38b. Local government councillors listen,9.0,Don’t know,
+8,listen_c,Q38B,Q38b. Local government councillors listen,99.0,Not asked in the country,
+8,listen_tl,Q38C,Q38c. Traditional leaders listen,-1.0,Missing,
+8,listen_tl,Q38C,Q38c. Traditional leaders listen,0.0,Never,0.0
+8,listen_tl,Q38C,Q38c. Traditional leaders listen,1.0,Only Sometimes,0.0
+8,listen_tl,Q38C,Q38c. Traditional leaders listen,2.0,Often,1.0
+8,listen_tl,Q38C,Q38c. Traditional leaders listen,3.0,Always,1.0
+8,listen_tl,Q38C,Q38c. Traditional leaders listen,8.0,Refused,
+8,listen_tl,Q38C,Q38c. Traditional leaders listen,9.0,Don’t know,
+8,listen_tl,Q38C,Q38c. Traditional leaders listen,99.0,Not asked in the country,
+9,free,Q9A,Q9a. Freedom to say what you think,-1.0,Missing,
+9,free,Q9A,Q9a. Freedom to say what you think,1.0,Not at all free,0.0
+9,free,Q9A,Q9a. Freedom to say what you think,2.0,Not very free,0.0
+9,free,Q9A,Q9a. Freedom to say what you think,3.0,Somewhat free,1.0
+9,free,Q9A,Q9a. Freedom to say what you think,4.0,Completely free,1.0
+9,free,Q9A,Q9a. Freedom to say what you think,8.0,Refused,
+9,free,Q9A,Q9a. Freedom to say what you think,9.0,Don’t know,
+9,meet,Q10A,Q10a. Attend a community meeting,-1.0,Missing,
+9,meet,Q10A,Q10a. Attend a community meeting,0.0,"No, would never do this",0.0
+9,meet,Q10A,Q10a. Attend a community meeting,1.0,"No, would do it if I had the chance",0.0
+9,meet,Q10A,Q10a. Attend a community meeting,2.0,"Yes, once or twice",1.0
+9,meet,Q10A,Q10a. Attend a community meeting,3.0,"Yes, several times",1.0
+9,meet,Q10A,Q10a. Attend a community meeting,4.0,"Yes, often",1.0
+9,meet,Q10A,Q10a. Attend a community meeting,8.0,Refused,
+9,meet,Q10A,Q10a. Attend a community meeting,9.0,Don't Know,
+9,raise_,Q10B,Q10b. Join others to raise an issue,-1.0,Missing,
+9,raise_,Q10B,Q10b. Join others to raise an issue,0.0,"No, would never do this",0.0
+9,raise_,Q10B,Q10b. Join others to raise an issue,1.0,"No, would do it if I had the chance",0.0
+9,raise_,Q10B,Q10b. Join others to raise an issue,2.0,"Yes, once or twice",1.0
+9,raise_,Q10B,Q10b. Join others to raise an issue,3.0,"Yes, several times",1.0
+9,raise_,Q10B,Q10b. Join others to raise an issue,4.0,"Yes, often",1.0
+9,raise_,Q10B,Q10b. Join others to raise an issue,8.0,Refused,
+9,raise_,Q10B,Q10b. Join others to raise an issue,9.0,Don't Know,
+9,contact_c,Q11B,Q11b. Contact local government councillor,-1.0,Missing,
+9,contact_c,Q11B,Q11b. Contact local government councillor,0.0,Never,0.0
+9,contact_c,Q11B,Q11b. Contact local government councillor,1.0,Only once,1.0
+9,contact_c,Q11B,Q11b. Contact local government councillor,2.0,A few times,1.0
+9,contact_c,Q11B,Q11b. Contact local government councillor,3.0,Often,1.0
+9,contact_c,Q11B,Q11b. Contact local government councillor,8.0,Refused,
+9,contact_c,Q11B,Q11b. Contact local government councillor,9.0,Don’t know,
+9,contact_c,Q11B,Q11b. Contact local government councillor,94.0,Not asked in the country,
+9,contact_tl,Q11E,Q11e. Contact traditional leader,-1.0,Missing,
+9,contact_tl,Q11E,Q11e. Contact traditional leader,0.0,Never,0.0
+9,contact_tl,Q11E,Q11e. Contact traditional leader,1.0,Only once,1.0
+9,contact_tl,Q11E,Q11e. Contact traditional leader,2.0,A few times,1.0
+9,contact_tl,Q11E,Q11e. Contact traditional leader,3.0,Often,1.0
+9,contact_tl,Q11E,Q11e. Contact traditional leader,8.0,Refused,
+9,contact_tl,Q11E,Q11e. Contact traditional leader,9.0,Don’t know,
+9,contact_tl,Q11E,Q11e. Contact traditional leader,94.0,Not asked in the country,
+9,careful,Q33D,Q33d. How often careful what you say,-1.0,Missing,
+9,careful,Q33D,Q33d. How often careful what you say,0.0,Never,1.0
+9,careful,Q33D,Q33d. How often careful what you say,1.0,Rarely,1.0
+9,careful,Q33D,Q33d. How often careful what you say,2.0,Often,0.0
+9,careful,Q33D,Q33d. How often careful what you say,3.0,Always,0.0
+9,careful,Q33D,Q33d. How often careful what you say,8.0,Refused,
+9,careful,Q33D,Q33d. How often careful what you say,9.0,Don’t know,
+9,listen_c,Q34B,Q34b. Local government councillors listen,-1.0,Missing,
+9,listen_c,Q34B,Q34b. Local government councillors listen,0.0,Never,0.0
+9,listen_c,Q34B,Q34b. Local government councillors listen,1.0,Only sometimes,0.0
+9,listen_c,Q34B,Q34b. Local government councillors listen,2.0,Often,1.0
+9,listen_c,Q34B,Q34b. Local government councillors listen,3.0,Always,1.0
+9,listen_c,Q34B,Q34b. Local government councillors listen,8.0,Refused,
+9,listen_c,Q34B,Q34b. Local government councillors listen,9.0,Don’t know,
+9,listen_c,Q34B,Q34b. Local government councillors listen,94.0,Not asked in this country,

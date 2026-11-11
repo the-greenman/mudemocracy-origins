@@ -1,0 +1,6 @@
+part,estimate,ci,rounds_in_predicted_direction,verdict
+S1-voice,-0.012,-0.038 to 0.014,1 of 3,Inconclusive
+S1-structure (practice),0.062,0.020 to 0.103,,Supported
+S1-structure (structure),0.029,0.003 to 0.055,,Supported
+S1-type (mobilised without voice),0.026,-0.003 to 0.055,1 of 3,Inconclusive
+S1 overall,,,,Not supported as a whole (see parts)

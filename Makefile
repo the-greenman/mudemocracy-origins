@@ -17,6 +17,10 @@ outputs/exploratory_mode_by_cso.csv: outputs/transitions.csv scripts/07_explorat
 outputs/MANIFEST.json: outputs/verdicts.csv outputs/mechanism_verdicts.csv outputs/exploratory_mode_by_cso.csv scripts/05_exports.py
 	$(PY) scripts/05_exports.py
 
+# South Africa study (note 9). Needs official Afrobarometer files in private/afrobarometer/ (not redistributed).
+sa:
+	$(PY) scripts/10_sa_afrobarometer.py && $(PY) scripts/11_sa_s1_models.py
+
 clean:
 	rm -rf data/*.csv* outputs/* raw
-.PHONY: all clean
+.PHONY: all clean sa
