@@ -1,0 +1,6 @@
+test,key_term,predicted,estimate_U1,ci_U1,n_U1,verdict_U1,robust_same_U1,verdict_U2,robust_same_U2,final_verdict
+M1,csopart_x_party,HR<1,1.22,0.91 to 1.63,100,Inconclusive,0 of 3,Contradicted,0 of 3,Inconclusive
+M3,csopart_x_exclusion,HR>1,0.93,0.68 to 1.27,102,Inconclusive,1 of 3,Inconclusive,1 of 3,Inconclusive
+M4,locgov_x_client,HR>1,0.87,0.65 to 1.16,101,Inconclusive,0 of 3,Inconclusive,0 of 3,Inconclusive
+M2,antisys_z,attenuation,,antisys HR 1.00 (0.72 to 1.39); CSO HR 1.46 -> 1.46 (shrink 0%),101,not met,,not met,antisys HR 1.11 (0.77 to 1.58); CSO HR 1.44 -> 1.44 (shrink 1%),Not supported
+M5,polar_z,attenuation,,CSO HR 1.46 -> 1.40 (shrink 10%; CI 0.90 to 2.18),101,not met,,not met,CSO HR 1.44 -> 1.34 (shrink 19%; CI 0.83 to 2.17),Not supported

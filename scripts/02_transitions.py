@@ -141,6 +141,12 @@ for cid, g in d.groupby('country_text_id'):
             pre_cso_particip_10y=round(pre.v2csprtcpt_osp.mean(), 2) if len(pre) else np.nan,
             pre_ccsi_10y=round(pre.v2xcs_ccsi.mean(), 3) if len(pre) else np.nan,
             pre_engaged_10y=round(pre.v2dlengage_osp.mean(), 2) if len(pre) else np.nan,
+            pre_party_10y=round(pre.v2xps_party.mean(), 3) if len(pre) else np.nan,
+            pre_antisys_10y=round(pre.v2csantimv.mean(), 3) if len(pre) else np.nan,
+            pre_exclusion_10y=round(pre.v2xpe_exlsocgr.mean(), 3) if len(pre) else np.nan,
+            pre_client_10y=round(pre.v2xnp_client.mean(), 3) if len(pre) else np.nan,
+            pre_polar_10y=round(pre.v2cacamps.mean(), 3) if len(pre) else np.nan,
+            elec_aut_t1=(None if first_obs else bool(prev.v2x_regime == 1)),
             log_gdppc=round(np.log(latest(g, y, 'e_gdppc')), 3) if pd.notna(latest(g, y, 'e_gdppc')) else np.nan,
             educ=round(latest(g, y, 'e_peaveduc'), 2) if pd.notna(latest(g, y, 'e_peaveduc')) else np.nan,
             resource_pc=round(np.log1p(latest(g, y, 'e_total_resources_income_pc')), 3)

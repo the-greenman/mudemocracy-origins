@@ -1,0 +1,85 @@
+country,transition_year,spell_end_year,end_mode,pre_cso_particip_10y,elec_aut_t1,origin_category
+Malta,1948,1957,collapse (closed autocracy),2.02,True,2 Independence
+Sri Lanka,1948,1982,erosion (electoral autocracy),0.97,True,2 Independence
+India,1952,1974,erosion (electoral autocracy),1.84,True,2 Independence
+Suriname,1955,1974,erosion (electoral autocracy),2.44,True,2 Independence
+Indonesia,1956,1957,erosion (electoral autocracy),2.42,True,6 Elite rupture
+Jamaica,1956,1976,erosion (electoral autocracy),2.19,True,2 Independence
+Chile,1959,1972,erosion (electoral autocracy),1.88,True,9 Within-regime opening
+Venezuela,1959,2001,erosion (electoral autocracy),0.14,True,6 Elite rupture
+Argentina,1964,1965,erosion (electoral autocracy),2.29,True,9 Within-regime opening
+Türkiye,1966,1970,erosion (electoral autocracy),2.12,False,9 Within-regime opening
+Mauritius,1968,2022,erosion (electoral autocracy),2.66,True,2 Independence
+Fiji,1970,1986,collapse (closed autocracy),0.87,True,2 Independence
+Papua New Guinea,1973,2007,erosion (electoral autocracy),1.5,True,2 Independence
+Türkiye,1973,1979,erosion (electoral autocracy),2.84,True,6 Elite rupture
+Argentina,1974,1975,erosion (electoral autocracy),2.39,True,6 Elite rupture
+Suriname,1976,1979,collapse (closed autocracy),2.62,True,2 Independence
+India,1978,2016,erosion (electoral autocracy),1.97,True,9 Within-regime opening
+Solomon Islands,1979,1999,erosion (electoral autocracy),1.75,True,2 Independence
+Ghana,1980,1980,collapse (closed autocracy),1.77,True,6 Elite rupture
+Peru,1981,1991,collapse (closed autocracy),0.57,True,8 Guided liberalisation
+Dominican Republic,1982,1989,erosion (electoral autocracy),2.08,True,8 Guided liberalisation
+Bolivia,1986,2018,erosion (electoral autocracy),1.88,True,8 Guided liberalisation
+Philippines,1988,2003,erosion (electoral autocracy),1.2,True,5 Popular uprising
+Suriname,1988,1990,erosion (electoral autocracy),2.34,False,8 Guided liberalisation
+Hungary,1990,2017,erosion (electoral autocracy),0.4,True,3 Hegemon withdrawal
+Nicaragua,1990,2006,erosion (electoral autocracy),1.6,True,8 Guided liberalisation
+Türkiye,1990,2012,erosion (electoral autocracy),1.5,True,9 Within-regime opening
+Mongolia,1991,2023,erosion (electoral autocracy),0.28,True,8 Guided liberalisation
+Bangladesh,1992,2001,erosion (electoral autocracy),2.49,True,5 Popular uprising
+Belarus,1992,1995,erosion (electoral autocracy),0.98,True,2 Independence
+Benin,1992,2018,erosion (electoral autocracy),1.67,True,8 Guided liberalisation
+Moldova,1992,1992,erosion (electoral autocracy),1.82,True,2 Independence
+Fiji,1993,1999,collapse (closed autocracy),2.3,True,8 Guided liberalisation
+Lesotho,1993,1993,erosion (electoral autocracy),1.87,False,6 Elite rupture
+Mali,1993,2011,erosion (electoral autocracy),2.13,True,5 Popular uprising
+Niger,1993,1995,erosion (electoral autocracy),1.85,True,8 Guided liberalisation
+Honduras,1994,2008,erosion (electoral autocracy),2.14,True,9 Within-regime opening
+Madagascar,1994,1999,erosion (electoral autocracy),1.99,True,1 Foreign-imposed
+Moldova,1994,2004,erosion (electoral autocracy),1.66,True,2 Independence
+Ukraine,1994,1997,erosion (electoral autocracy),0.77,True,2 Independence
+Malawi,1995,1999,erosion (electoral autocracy),0.12,True,8 Guided liberalisation
+Sri Lanka,1995,1999,erosion (electoral autocracy),1.84,True,8 Guided liberalisation
+Mexico,1996,2023,erosion (electoral autocracy),1.16,True,9 Within-regime opening
+Bosnia and Herzegovina,1997,2024,erosion (electoral autocracy),1.29,True,6 Elite rupture
+Guyana,1998,2020,erosion (electoral autocracy),1.78,True,9 Within-regime opening
+North Macedonia,1998,1998,erosion (electoral autocracy),1.1,True,9 Within-regime opening
+Thailand,1998,2005,erosion (electoral autocracy),1.88,True,8 Guided liberalisation
+El Salvador,1999,2020,erosion (electoral autocracy),2.28,True,9 Within-regime opening
+Indonesia,1999,2023,erosion (electoral autocracy),0.97,True,5 Popular uprising
+Burkina Faso,2000,2014,erosion (electoral autocracy),2.55,True,9 Within-regime opening
+Niger,2000,2008,erosion (electoral autocracy),2.61,True,6 Elite rupture
+Serbia,2001,2013,erosion (electoral autocracy),1.05,True,9 Within-regime opening
+North Macedonia,2002,2010,erosion (electoral autocracy),1.26,True,9 Within-regime opening
+Solomon Islands,2002,2005,erosion (electoral autocracy),2.34,True,1b Restoration after occupation
+Sri Lanka,2002,2004,erosion (electoral autocracy),2.07,True,9 Within-regime opening
+Fiji,2003,2005,erosion (electoral autocracy),2.3,True,6 Elite rupture
+Kenya,2003,2006,erosion (electoral autocracy),2.69,True,8 Guided liberalisation
+Montenegro,2003,2006,erosion (electoral autocracy),2.01,True,2 Independence
+Palestine/West Bank,2003,2006,erosion (electoral autocracy),2.24,True,2 Independence
+Sierra Leone,2003,2022,erosion (electoral autocracy),2.13,True,9 Within-regime opening
+Georgia,2004,2007,erosion (electoral autocracy),1.76,True,5 Popular uprising
+Albania,2005,2024,erosion (electoral autocracy),2.1,True,9 Within-regime opening
+Ukraine,2006,2009,erosion (electoral autocracy),1.54,True,5 Popular uprising
+Zambia,2007,2012,erosion (electoral autocracy),2.82,True,9 Within-regime opening
+Madagascar,2008,2008,erosion (electoral autocracy),2.25,True,6 Elite rupture
+Montenegro,2008,2012,erosion (electoral autocracy),2.13,True,2 Independence
+Maldives,2009,2012,erosion (electoral autocracy),1.37,True,8 Guided liberalisation
+Nepal,2009,2011,erosion (electoral autocracy),2.66,True,5 Popular uprising
+Malawi,2010,2018,erosion (electoral autocracy),1.68,True,9 Within-regime opening
+Philippines,2010,2015,erosion (electoral autocracy),2.81,True,9 Within-regime opening
+Niger,2011,2022,erosion (electoral autocracy),2.77,False,6 Elite rupture
+Georgia,2012,2023,erosion (electoral autocracy),2.12,True,9 Within-regime opening
+Nigeria,2012,2020,erosion (electoral autocracy),2.63,True,9 Within-regime opening
+Tunisia,2012,2021,erosion (electoral autocracy),1.26,True,5 Popular uprising
+Kenya,2013,2016,erosion (electoral autocracy),2.7,True,9 Within-regime opening
+Libya,2013,2013,collapse (closed autocracy),0.55,True,1 Foreign-imposed
+Mali,2014,2017,erosion (electoral autocracy),2.7,True,6 Elite rupture
+Guinea-Bissau,2015,2016,erosion (electoral autocracy),2.36,True,6 Elite rupture
+Burkina Faso,2016,2021,erosion (electoral autocracy),2.56,True,5 Popular uprising
+Ivory Coast,2016,2019,erosion (electoral autocracy),2.38,True,9 Within-regime opening
+Guinea-Bissau,2018,2021,erosion (electoral autocracy),2.36,True,8 Guided liberalisation
+The Gambia,2018,2019,erosion (electoral autocracy),1.25,True,7 Unguided liberalisation
+Ukraine,2019,2021,erosion (electoral autocracy),2.03,True,9 Within-regime opening
+Zambia,2022,2024,erosion (electoral autocracy),2.35,True,9 Within-regime opening

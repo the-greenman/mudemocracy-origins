@@ -22,9 +22,16 @@ make all
 | Transitions and origin rules | `02_transitions.py` | `outputs/transitions.csv` |
 | Validation and consensus universe | `03_validate_transitions.py` | `outputs/validation_*.csv` |
 | Pre-registered models and verdicts | `04_models.py` | `outputs/model_estimates.csv`, `outputs/verdicts.csv`, `outputs/unplanned_estimates.csv` |
+| H3 mechanism tests (pre-registered, note 8) | `06_mechanisms.py` | `outputs/mechanism_*.csv`, `outputs/south_africa_trajectory.csv` |
+| Exploratory: how breakdowns ended (not pre-registered) | `07_exploratory_breakdown_mode.py` | `outputs/exploratory_*.csv` |
 | Exports and manifest | `05_exports.py` | `outputs/sheet_*.csv`, `outputs/MANIFEST.json` |
 
 ## Sources (please cite)
 
 - Coppedge et al., *V-Dem Country-Year Dataset v16*, Varieties of Democracy Project. This includes Boix, Miller & Rosato (BMR) and Polity2.
 - Chenoweth & Lewis, "Unpacking nonviolent campaigns: Introducing the NAVCO 2.0 dataset", *Journal of Peace Research* 50(3), 2013. The selection used here is redistributed by X. Marquez.
+
+## Research notes
+
+- `docs/note7_democratic_origins.md` covers the dataset, methodology, the pre-registered plan for H1–H4, and results.
+- `docs/note8_bad_civil_society.md` covers H3 ("when civil society doesn't protect democracy"): the literature, pre-registered mechanism tests M1–M5, results, and the South Africa case.

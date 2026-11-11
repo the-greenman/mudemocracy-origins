@@ -10,10 +10,15 @@
     }
   },
   "outputs": {
+    "exploratory_breakdown_mode.csv": "f3b3048cc190a3404602c429b70b02ea4e113e154f5e6498286c6c82a1e2e1d6",
+    "exploratory_mode_by_cso.csv": "1aa7ffd6bfd86e018932ccfc292c95f4a3c7447e4d14f666ae6e736e0537a328",
+    "mechanism_estimates.csv": "2b0ae499fea03976c8cf3bdd6ec925e694dc7d50f8f787807f968e69d016ff6b",
+    "mechanism_verdicts.csv": "6b0a4300ee1513fc21d2e960503a79bac2c5ed80847322e226f9d3bb3f5451a1",
     "model_estimates.csv": "7fcdd4c2eb6709bd5cc1311ea876d55b3d3c29fdd17cfd7013e5213b798122df",
     "sheet_estimates.csv": "f212ebb4a7581668394bcb827ab14ce23333594ac5628c76decd19aa24547b2f",
-    "sheet_transitions.csv": "6eb7ccf3fd24ad7e5b557521d227dd09d30c3eebbba983a70b584ebd3f0b8a84",
-    "transitions.csv": "2dcbfac2c8ec64239b3c1cbcd4f948c425d7b6b25af1614244e77e09480790f7",
+    "sheet_transitions.csv": "3e1bf237bf03e3098ce8947340a54d581b03f7809ed21e7c9bb30a66f1352527",
+    "south_africa_trajectory.csv": "6f7bb37d54e6f3ad9fd191b6035f1259c54621ad92491e6eb0e745b2a75b3dbb",
+    "transitions.csv": "11d72e89a3b0a362477431d844f45438e42b1a6c228d87035db099263bcd89e3",
     "unplanned_estimates.csv": "7cd1ae3f06ad3f4acc91932f6b0f1e382cf0164dfa9ccc35308c91e0fb27ace9",
     "validation_summary.csv": "1afb15ebeff9e7a3a2c0030dd2788cc068375df056a9c1a4f51fc5f12c3a952d",
     "validation_transitions.csv": "6e8300c2d94d50f10fdf7585fe779a4fd5b14c98826e55902cb0e40a650b8531",
