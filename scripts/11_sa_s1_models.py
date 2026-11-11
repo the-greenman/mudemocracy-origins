@@ -41,7 +41,7 @@ print(E[E.outcome.isin(['voice','practice','structure','mobilised_no_voice'])&E.
 
 def wmean(d, cols): return pd.Series({c: np.average(d[c].dropna(), weights=d.loc[d[c].notna(), 'weight']) if d[c].notna().any() else np.nan for c in cols})
 M = S.groupby(['round', 'traditional']).apply(lambda d: wmean(d, OUT)).round(3).reset_index(); M.to_csv(R / 'outputs/sa_s1_means.csv', index=False)
-T = H.groupby(['year', 'rural']).apply(lambda d: wmean(d, ['practice', 'voice', 'meet', 'raise_', 'free', 'careful', 'listen_c', 'contact_c', 'contact_tl'])).round(3).reset_index()
+T = H.groupby(['year', 'rural']).apply(lambda d: wmean(d, ['practice', 'voice', 'meet', 'raise_', 'free', 'careful', 'listen_c', 'contact_c', 'contact_tl', 'request'])).round(3).reset_index()
 T.to_csv(R / 'outputs/sa_trends.csv', index=False); print(T.to_string(index=False))
 W = H[H['round'] == 4].groupby('traditional').apply(lambda d: wmean(d, ['listen_c', 'listen_tl'])).round(3).reset_index()
 W.to_csv(R / 'outputs/sa_r4_who_listens.csv', index=False); print(W.to_string(index=False))

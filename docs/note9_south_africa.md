@@ -182,11 +182,27 @@ Differences are adjusted for round, province, age, sex and education.
 - **Area type is the survey's own flag**, and its categories changed between rounds (tribal area, tribal, traditional residential).
 - **Clusters are approximated**, because the files carry no sampled-area identifier.
 - **The 2015→2018 shift needs checking** against question wording and fieldwork changes before it is treated as a real change in the country.
-- **Round 10 (2024) is not yet used.** Its file has no question labels; the round 10 codebook is needed to place it on these trends.
+- **Round 10 (2024) is only partly comparable.** See §6.6.
 - **One coding error was caught and fixed before the results were read as final:** "inactive member" had been counted as active membership. The fix followed the frozen definition; the Structure estimate fell from +0.040 to +0.029 and the verdict did not change.
 
 ### 6.5 Next
 
-1. Add round 10 once its codebook is in hand, to see where voice stood in 2024, before the 2026 election.
-2. Test S3 with round 10's district identifiers and final 2026 results: did turnout rise most where people take part but do not feel heard?
-3. Check the 2015→2018 break against Afrobarometer's own technical notes.
+1. Check the 2015→2018 break against Afrobarometer's own technical notes.
+2. Decide how to test S3 (§6.6).
+
+### 6.6 Round 10 (2024), added after the questionnaire was supplied
+
+Question numbers were checked against the round 10 South Africa questionnaire. Round 10 did **not** ask about attending community meetings, contacting a councillor, or being careful what you say, so the Practice and Voice indices cannot be built for 2024. Four items carry over:
+
+| Item | 2015 | 2018 | 2022 | 2024 |
+| --- | --- | --- | --- | --- |
+| Feel free to say what they think (urban / rural) | 87% / 90% | 64% / 64% | 73% / 81% | 68% / 64% |
+| Councillors often or always listen | 21% / 22% | 19% / 26% | 21% / 25% | 16% / 22% |
+| Contacted a traditional leader in the past year | 6% / 34% | 11% / 25% | 15% / 27% | 11% / 27% |
+| Joined others to request action from government | 26% / 39% | 34% / 42% | not asked | 18% / 12% |
+
+- **Felt freedom to speak fell again by 2024,** most of all in rural areas (81% to 64%), back to its 2018 low.
+- **Few think councillors listen:** about one in six in towns and one in five in rural areas, going into the 2026 local elections.
+- **Joining others to press government fell sharply,** but the question's format changed in round 10 (the earlier rounds offered "no, but would if I had the chance"), so part of the drop may be an artefact.
+
+**What this means for S3.** Round 10 names each respondent's district or metro, but the sample is thin: 51 districts with a median of 24 respondents, and as few as 4. District estimates would be too noisy to test whether 2026 turnout rose most where people do not feel heard. A province-level comparison (9 units) is possible but could only be descriptive.

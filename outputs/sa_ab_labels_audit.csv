@@ -194,6 +194,14 @@ round,item,variable,question,code,label,coded_as
 6,listen_c,Q59B,Q59b. Local government councillors listen,3.0,Always,1.0
 6,listen_c,Q59B,Q59b. Local government councillors listen,9.0,Don't know,
 6,listen_c,Q59B,Q59b. Local government councillors listen,98.0,Refused,
+6,request,Q27A,Q27a. Join others to request government action,-1.0,Missing,
+6,request,Q27A,Q27a. Join others to request government action,0.0,"No, would never do this",0.0
+6,request,Q27A,Q27a. Join others to request government action,1.0,"No, but would do if had the chance",0.0
+6,request,Q27A,Q27a. Join others to request government action,2.0,"Yes, once or twice",1.0
+6,request,Q27A,Q27a. Join others to request government action,3.0,"Yes, several times",1.0
+6,request,Q27A,Q27a. Join others to request government action,4.0,"Yes, often",1.0
+6,request,Q27A,Q27a. Join others to request government action,9.0,Don't know,
+6,request,Q27A,Q27a. Join others to request government action,98.0,Refused,
 7,free,Q14,Q14. Freedom to say what you think,-1.0,Missing,
 7,free,Q14,Q14. Freedom to say what you think,1.0,Not at all free,0.0
 7,free,Q14,Q14. Freedom to say what you think,2.0,Not very free,0.0
@@ -266,6 +274,14 @@ round,item,variable,question,code,label,coded_as
 7,listen_c,Q54B,Q54b. Local government councillors listen,3.0,Always,1.0
 7,listen_c,Q54B,Q54b. Local government councillors listen,8.0,Refused,
 7,listen_c,Q54B,Q54b. Local government councillors listen,9.0,Don’t know,
+7,request,Q26A,Q26a. Join others to request government action,-1.0,Missing,
+7,request,Q26A,Q26a. Join others to request government action,0.0,"No, would never do this",0.0
+7,request,Q26A,Q26a. Join others to request government action,1.0,"No, but would do if had the chance",0.0
+7,request,Q26A,Q26a. Join others to request government action,2.0,"Yes, once or twice",1.0
+7,request,Q26A,Q26a. Join others to request government action,3.0,"Yes, several times",1.0
+7,request,Q26A,Q26a. Join others to request government action,4.0,"Yes, often",1.0
+7,request,Q26A,Q26a. Join others to request government action,8.0,Refused,
+7,request,Q26A,Q26a. Join others to request government action,9.0,Don't know,
 8,free,Q10A,Q10a. Freedom to say what you think,-1.0,Missing,
 8,free,Q10A,Q10a. Freedom to say what you think,1.0,Not at all free,0.0
 8,free,Q10A,Q10a. Freedom to say what you think,2.0,Not very free,0.0
@@ -382,3 +398,24 @@ round,item,variable,question,code,label,coded_as
 9,listen_c,Q34B,Q34b. Local government councillors listen,8.0,Refused,
 9,listen_c,Q34B,Q34b. Local government councillors listen,9.0,Don’t know,
 9,listen_c,Q34B,Q34b. Local government councillors listen,94.0,Not asked in this country,
+10,free,Q10A,(see round 10 questionnaire),,Somewhat free,1.0
+10,free,Q10A,(see round 10 questionnaire),,Completely free,1.0
+10,free,Q10A,(see round 10 questionnaire),,Not very free,0.0
+10,free,Q10A,(see round 10 questionnaire),,Not at all free,0.0
+10,free,Q10A,(see round 10 questionnaire),,Don’t know,
+10,free,Q10A,(see round 10 questionnaire),,Refused,
+10,request,Q11A,(see round 10 questionnaire),,No,0.0
+10,request,Q11A,(see round 10 questionnaire),,"Yes, several times",1.0
+10,request,Q11A,(see round 10 questionnaire),,"Yes, often",1.0
+10,request,Q11A,(see round 10 questionnaire),,"Yes, once or twice",1.0
+10,request,Q11A,(see round 10 questionnaire),,Don't know,
+10,contact_tl,Q12C,(see round 10 questionnaire),,A few times,1.0
+10,contact_tl,Q12C,(see round 10 questionnaire),,Never,0.0
+10,contact_tl,Q12C,(see round 10 questionnaire),,Only once,1.0
+10,contact_tl,Q12C,(see round 10 questionnaire),,Don’t know,
+10,contact_tl,Q12C,(see round 10 questionnaire),,Often,1.0
+10,listen_c,Q36B,(see round 10 questionnaire),,Only sometimes,0.0
+10,listen_c,Q36B,(see round 10 questionnaire),,Never,0.0
+10,listen_c,Q36B,(see round 10 questionnaire),,Don’t know,
+10,listen_c,Q36B,(see round 10 questionnaire),,Often,1.0
+10,listen_c,Q36B,(see round 10 questionnaire),,Always,1.0

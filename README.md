@@ -39,4 +39,4 @@ make all
 
 ## South Africa study
 
-`make sa` runs it. It needs the official Afrobarometer South Africa files (rounds 4-9), which are free from afrobarometer.org/data but may not be redistributed. Put them in `private/afrobarometer/`. `outputs/sa_input_hashes.csv` lists the SHA-256 of each file used, and `outputs/sa_ab_labels_audit.csv` shows how every answer was coded. No respondent-level data is committed.
+`make sa` runs it. It needs the official Afrobarometer South Africa files (rounds 4-10), which are free from afrobarometer.org/data but may not be redistributed. Put them in `private/afrobarometer/`. `outputs/sa_input_hashes.csv` lists the SHA-256 of each file used, and `outputs/sa_ab_labels_audit.csv` shows how every answer was coded. No respondent-level data is committed.
