@@ -33,6 +33,7 @@ make all
 
 ## Research notes
 
+- `docs/STATUS.md` is the handoff: what is done, what is untested, and how to resume. Start here.
 - `docs/note7_democratic_origins.md` covers the dataset, methodology, the pre-registered plan for H1–H4, and results.
 - `docs/note8_bad_civil_society.md` covers H3 ("when civil society doesn't protect democracy"): the literature, pre-registered mechanism tests M1–M5, results, and the South Africa case.
 - `docs/note9_south_africa.md` covers the South Africa study: design, the frozen S1 test of participation and voice in traditional-authority areas, and results.
