@@ -1,6 +1,7 @@
 """Extract the variables used from the pinned raw sources into small CSVs."""
 import pyreadr, pandas as pd, pathlib
 R=pathlib.Path(__file__).resolve().parents[1]
+(R/'data').mkdir(exist_ok=True); (R/'outputs').mkdir(exist_ok=True)
 VARS=['country_name','country_text_id','COWcode','year','v2x_regime','v2x_polyarchy','v2regendtype','v2regidnr',
  'v2svdomaut_osp','v2svindep','v2cademmob_osp','v2regsupgroups_13','v2xcs_ccsi','v2csprtcpt_osp','v2xel_locelec',
  'v2dlengage_osp','v2x_partipdem','e_regiongeo','e_regionpol_6C','e_gdppc','e_peaveduc','e_total_resources_income_pc',
