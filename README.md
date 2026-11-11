@@ -1,0 +1,30 @@
+# μDemocracy — Democratic Origins Dataset
+
+Every democratic transition from 1946 to 2024, classified by **how democracy arrived** (imposed, restored, independence, external release, domestic). Each one carries measures of grassroots democratic practice before and after, and the transitions are tested against pre-registered hypotheses.
+
+The methodology, codebook, pre-registered analysis plan and results are in the project document `mu_research_7_democratic_origins_dataset.md`.
+
+## Rebuild
+
+```
+pip install -r requirements.txt
+make all
+```
+
+- Every raw source is fetched from a public git repository at the commit pinned in `sources.lock`.
+- No file is edited by hand.
+- `outputs/MANIFEST.json` records the SHA-256 of every output, so a rebuild can be checked byte for byte.
+
+| Step | Script | Output |
+| --- | --- | --- |
+| Fetch | `00_fetch.sh` | `raw/` (V-Dem v16 via `vdemdata`; NAVCO 2.0 via `AuthoritarianismBook`) |
+| Extract | `01_extract.py` | `data/vdem_subset.csv.gz`, `data/navco2.csv` |
+| Transitions and origin rules | `02_transitions.py` | `outputs/transitions.csv` |
+| Validation and consensus universe | `03_validate_transitions.py` | `outputs/validation_*.csv` |
+| Pre-registered models and verdicts | `04_models.py` | `outputs/model_estimates.csv`, `outputs/verdicts.csv`, `outputs/unplanned_estimates.csv` |
+| Exports and manifest | `05_exports.py` | `outputs/sheet_*.csv`, `outputs/MANIFEST.json` |
+
+## Sources (please cite)
+
+- Coppedge et al., *V-Dem Country-Year Dataset v16*, Varieties of Democracy Project. This includes Boix, Miller & Rosato (BMR) and Polity2.
+- Chenoweth & Lewis, "Unpacking nonviolent campaigns: Introducing the NAVCO 2.0 dataset", *Journal of Peace Research* 50(3), 2013. The selection used here is redistributed by X. Marquez.

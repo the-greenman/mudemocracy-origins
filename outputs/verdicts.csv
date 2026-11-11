@@ -1,0 +1,8 @@
+hypothesis,variable,main_estimate_U1,ci_U1,n_U1,verdict_U1,robust_same_dir_U1,verdict_U2,robust_same_dir_U2,final_verdict
+H1,loc_Imposed,0.66,0.09 to 4.82,105,Inconclusive,0 of 2,Inconclusive,0 of 2,Inconclusive
+H1,loc_Independence,0.8,0.24 to 2.61,105,Inconclusive,0 of 2,Inconclusive,1 of 2,Inconclusive
+H1,loc_External_release,0.21,0.03 to 1.49,105,Inconclusive,0 of 2,Inconclusive,0 of 2,Inconclusive
+H2,navco_unarmed_prodem_yrs,0.92,0.75 to 1.13,79,Suggestive,2 of 2,Suggestive,2 of 2,Suggestive
+H3,z_locgov,1.17,0.90 to 1.53,101,Inconclusive,0 of 2,Inconclusive,0 of 2,Inconclusive
+H3,z_csopart,1.46,0.96 to 2.20,101,Inconclusive,0 of 2,Inconclusive,0 of 2,Inconclusive
+H4,loc_Imposed,-0.46,-1.47 to 0.55,70,Suggestive,2 of 2,Suggestive,2 of 2,Suggestive

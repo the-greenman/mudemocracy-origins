@@ -1,0 +1,160 @@
+country,iso3,transition_year,origin_locus,BMR,Polity2
+Belgium,BEL,1946,Restored,source already democratic,source already democratic
+Denmark,DNK,1946,Restored,confirmed,source already democratic
+Luxembourg,LUX,1946,Restored,source already democratic,source already democratic
+Netherlands,NLD,1946,Restored,source already democratic,source already democratic
+Norway,NOR,1946,Restored,source already democratic,source already democratic
+France,FRA,1947,Restored,confirmed,source already democratic
+Italy,ITA,1947,Imposed,confirmed,confirmed
+Malta,MLT,1948,Independence,not covered,not covered
+Sri Lanka,LKA,1948,Independence,not covered,not covered
+Germany,DEU,1949,Imposed,confirmed,confirmed
+Israel,ISR,1949,Domestic,source already democratic,source already democratic
+Costa Rica,CRI,1950,Domestic,confirmed,confirmed
+India,IND,1952,Independence,source already democratic,not covered
+Japan,JPN,1952,Imposed,confirmed,confirmed
+Suriname,SUR,1955,Independence,not covered,not covered
+Indonesia,IDN,1956,Domestic,confirmed,not a democracy in source
+Jamaica,JAM,1956,Independence,not covered,not covered
+Chile,CHL,1959,Domestic,source already democratic,not a democracy in source
+Venezuela,VEN,1959,Domestic,confirmed,confirmed
+Barbados,BRB,1960,Independence,not covered,not covered
+Trinidad and Tobago,TTO,1962,Independence,not covered,not covered
+Malta,MLT,1963,Independence,not covered,not covered
+Argentina,ARG,1964,Domestic,confirmed,confirmed
+Türkiye,TUR,1966,Domestic,source already democratic,source already democratic
+Botswana,BWA,1967,Independence,source already democratic,source already democratic
+Mauritius,MUS,1968,Independence,not covered,not covered
+Fiji,FJI,1970,Independence,not covered,not covered
+Papua New Guinea,PNG,1973,Independence,not covered,not covered
+Türkiye,TUR,1973,Domestic,source already democratic,confirmed
+Argentina,ARG,1974,Domestic,confirmed,confirmed
+Cyprus,CYP,1975,Imposed,confirmed,source already democratic
+Greece,GRC,1975,Domestic,confirmed,confirmed
+Portugal,PRT,1976,Domestic,confirmed,confirmed
+Suriname,SUR,1976,Independence,source already democratic,not a democracy in source
+India,IND,1978,Domestic,source already democratic,source already democratic
+Spain,ESP,1978,Domestic,confirmed,confirmed
+Solomon Islands,SLB,1979,Independence,source already democratic,source already democratic
+Ecuador,ECU,1980,Domestic,confirmed,confirmed
+Ghana,GHA,1980,Domestic,confirmed,not a democracy in source
+Vanuatu,VUT,1980,Independence,not covered,not covered
+Peru,PER,1981,Domestic,confirmed,confirmed
+Dominican Republic,DOM,1982,Domestic,source already democratic,not a democracy in source
+Argentina,ARG,1984,Domestic,confirmed,confirmed
+Jamaica,JAM,1984,Domestic,source already democratic,source already democratic
+Uruguay,URY,1985,Domestic,confirmed,confirmed
+Bolivia,BOL,1986,Domestic,source already democratic,source already democratic
+Brazil,BRA,1987,Domestic,confirmed,confirmed
+Philippines,PHL,1988,Domestic,confirmed,confirmed
+South Korea,KOR,1988,Domestic,confirmed,confirmed
+Suriname,SUR,1988,Domestic,confirmed,not a democracy in source
+Armenia,ARM,1990,Independence,not covered,not covered
+Bulgaria,BGR,1990,External release,confirmed,confirmed
+Chile,CHL,1990,Domestic,confirmed,confirmed
+Czechia,CZE,1990,External release,confirmed,confirmed
+Estonia,EST,1990,Independence,confirmed,confirmed
+German Democratic Republic,DDR,1990,Domestic,not a democracy in source,not covered
+Hungary,HUN,1990,External release,confirmed,confirmed
+Latvia,LVA,1990,Independence,not a democracy in source,confirmed
+Lithuania,LTU,1990,Independence,confirmed,confirmed
+Namibia,NAM,1990,Independence,not covered,not covered
+Nicaragua,NIC,1990,Domestic,source already democratic,confirmed
+Poland,POL,1990,External release,confirmed,confirmed
+Romania,ROU,1990,Domestic,confirmed,not a democracy in source
+Senegal,SEN,1990,Domestic,not a democracy in source,not a democracy in source
+Slovenia,SVN,1990,Independence,not covered,not covered
+Türkiye,TUR,1990,Domestic,source already democratic,source already democratic
+Cape Verde,CPV,1991,Domestic,confirmed,confirmed
+Colombia,COL,1991,Domestic,source already democratic,source already democratic
+Mongolia,MNG,1991,Domestic,confirmed,confirmed
+Panama,PAN,1991,Imposed,confirmed,confirmed
+Sao Tome and Principe,STP,1991,Domestic,confirmed,not covered
+Bangladesh,BGD,1992,Domestic,confirmed,confirmed
+Belarus,BLR,1992,Independence,source already democratic,source already democratic
+Benin,BEN,1992,Domestic,confirmed,confirmed
+Moldova,MDA,1992,Independence,source already democratic,confirmed
+Suriname,SUR,1992,Domestic,confirmed,not a democracy in source
+Estonia,EST,1993,Independence,confirmed,confirmed
+Fiji,FJI,1993,Domestic,not a democracy in source,not a democracy in source
+Lesotho,LSO,1993,Domestic,not a democracy in source,not a democracy in source
+Mali,MLI,1993,Domestic,confirmed,not a democracy in source
+Niger,NER,1993,Domestic,confirmed,confirmed
+Paraguay,PRY,1993,Domestic,not a democracy in source,confirmed
+Honduras,HND,1994,Domestic,source already democratic,source already democratic
+Madagascar,MDG,1994,Imposed,confirmed,confirmed
+Moldova,MDA,1994,Independence,source already democratic,confirmed
+Slovakia,SVK,1994,Domestic,source already democratic,source already democratic
+Ukraine,UKR,1994,Independence,source already democratic,confirmed
+Malawi,MWI,1995,Domestic,confirmed,confirmed
+South Africa,ZAF,1995,Domestic,confirmed,source already democratic
+Sri Lanka,LKA,1995,Domestic,confirmed,not a democracy in source
+Dominican Republic,DOM,1996,Domestic,source already democratic,confirmed
+Ghana,GHA,1996,Domestic,confirmed,not a democracy in source
+Mexico,MEX,1996,Domestic,not a democracy in source,confirmed
+Taiwan,TWN,1996,Domestic,confirmed,source already democratic
+Bosnia and Herzegovina,BIH,1997,Domestic,source already democratic,not covered
+Guyana,GUY,1998,Domestic,source already democratic,source already democratic
+North Macedonia,MKD,1998,Domestic,source already democratic,source already democratic
+Thailand,THA,1998,Domestic,source already democratic,source already democratic
+El Salvador,SLV,1999,Domestic,source already democratic,source already democratic
+Indonesia,IDN,1999,Domestic,confirmed,confirmed
+Burkina Faso,BFA,2000,Domestic,not a democracy in source,not a democracy in source
+Croatia,HRV,2000,Independence,confirmed,confirmed
+Guatemala,GTM,2000,Domestic,source already democratic,source already democratic
+Niger,NER,2000,Domestic,confirmed,not a democracy in source
+Peru,PER,2001,Domestic,confirmed,confirmed
+Serbia,SRB,2001,Domestic,not a democracy in source,confirmed
+North Macedonia,MKD,2002,Domestic,source already democratic,source already democratic
+Solomon Islands,SLB,2002,Restored,not a democracy in source,confirmed
+Sri Lanka,LKA,2002,Domestic,source already democratic,confirmed
+Timor-Leste,TLS,2002,Independence,not covered,not covered
+Fiji,FJI,2003,Domestic,not a democracy in source,confirmed
+Kenya,KEN,2003,Domestic,confirmed,confirmed
+Kosovo,XKX,2003,Independence,not covered,not covered
+Lesotho,LSO,2003,Domestic,confirmed,source already democratic
+Montenegro,MNE,2003,Independence,source already democratic,not covered
+Palestine/West Bank,PSE,2003,Independence,not covered,not covered
+Sierra Leone,SLE,2003,Domestic,confirmed,not a democracy in source
+Georgia,GEO,2004,Domestic,confirmed,confirmed
+Albania,ALB,2005,Domestic,source already democratic,source already democratic
+Liberia,LBR,2006,Domestic,confirmed,confirmed
+Ukraine,UKR,2006,Domestic,source already democratic,source already democratic
+Solomon Islands,SLB,2007,Restored,confirmed,source already democratic
+Zambia,ZMB,2007,Domestic,confirmed,confirmed
+Madagascar,MDG,2008,Domestic,source already democratic,source already democratic
+Montenegro,MNE,2008,Independence,not a democracy in source,source already democratic
+Bhutan,BTN,2009,Domestic,not a democracy in source,not a democracy in source
+Maldives,MDV,2009,Domestic,confirmed,not covered
+Nepal,NPL,2009,Domestic,confirmed,source already democratic
+Malawi,MWI,2010,Domestic,source already democratic,source already democratic
+Moldova,MDA,2010,Domestic,source already democratic,source already democratic
+Philippines,PHL,2010,Domestic,source already democratic,source already democratic
+Niger,NER,2011,Domestic,confirmed,confirmed
+Georgia,GEO,2012,Domestic,source already democratic,source already democratic
+Nigeria,NGA,2012,Domestic,not a democracy in source,not a democracy in source
+Tunisia,TUN,2012,Domestic,not a democracy in source,confirmed
+Kenya,KEN,2013,Domestic,source already democratic,source already democratic
+Libya,LBY,2013,Imposed,not a democracy in source,not a democracy in source
+Mali,MLI,2014,Domestic,not a democracy in source,not a democracy in source
+Nepal,NPL,2014,Domestic,source already democratic,source already democratic
+Guinea-Bissau,GNB,2015,Domestic,not a democracy in source,confirmed
+Seychelles,SYC,2015,Domestic,confirmed,not covered
+Sri Lanka,LKA,2015,Domestic,confirmed,confirmed
+Burkina Faso,BFA,2016,Domestic,confirmed,confirmed
+Ivory Coast,CIV,2016,Domestic,not a democracy in source,not a democracy in source
+North Macedonia,MKD,2017,Domestic,source already democratic,source already democratic
+Armenia,ARM,2018,Domestic,confirmed,confirmed
+Guinea-Bissau,GNB,2018,Domestic,not a democracy in source,source already democratic
+The Gambia,GMB,2018,Domestic,confirmed,not a democracy in source
+Maldives,MDV,2019,Domestic,not a democracy in source,not covered
+Ukraine,UKR,2019,Domestic,source already democratic,not covered
+Malawi,MWI,2020,Domestic,source already democratic,not covered
+Bolivia,BOL,2021,Domestic,not covered,not covered
+Montenegro,MNE,2021,Domestic,not covered,not covered
+The Gambia,GMB,2021,Domestic,not covered,not covered
+Honduras,HND,2022,Domestic,not covered,not covered
+Kenya,KEN,2022,Domestic,not covered,not covered
+Zambia,ZMB,2022,Domestic,not covered,not covered
+Fiji,FJI,2023,Domestic,not covered,not covered
+Malaysia,MYS,2023,Domestic,not covered,not covered

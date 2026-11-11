@@ -1,0 +1,22 @@
+{
+  "sources": {
+    "vdemdata": {
+      "url": "https://github.com/vdeminstitute/vdemdata.git",
+      "commit": "f4dd26922e658442524dfd954bf14f7ebe622d5d"
+    },
+    "AuthoritarianismBook": {
+      "url": "https://github.com/xmarquez/AuthoritarianismBook.git",
+      "commit": "51716224a08674b956a6434b0d18cd761311efde"
+    }
+  },
+  "outputs": {
+    "model_estimates.csv": "7fcdd4c2eb6709bd5cc1311ea876d55b3d3c29fdd17cfd7013e5213b798122df",
+    "sheet_estimates.csv": "f212ebb4a7581668394bcb827ab14ce23333594ac5628c76decd19aa24547b2f",
+    "sheet_transitions.csv": "6eb7ccf3fd24ad7e5b557521d227dd09d30c3eebbba983a70b584ebd3f0b8a84",
+    "transitions.csv": "2dcbfac2c8ec64239b3c1cbcd4f948c425d7b6b25af1614244e77e09480790f7",
+    "unplanned_estimates.csv": "7cd1ae3f06ad3f4acc91932f6b0f1e382cf0164dfa9ccc35308c91e0fb27ace9",
+    "validation_summary.csv": "1afb15ebeff9e7a3a2c0030dd2788cc068375df056a9c1a4f51fc5f12c3a952d",
+    "validation_transitions.csv": "6e8300c2d94d50f10fdf7585fe779a4fd5b14c98826e55902cb0e40a650b8531",
+    "verdicts.csv": "feeadbee6565c919c7ab7b812e0281b639ae5d9cc96257f70e0ddf4bcc5a585b"
+  }
+}
